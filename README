@@ -3,16 +3,16 @@ FluidDBServer
 Adobe AIR specific AS3 library for communicating with the fantastic FluidDB API
 (http://www.fluidinfo.com/fluiddb).
 
-Unfortunately, AIR is required because of a need to to set specific request 
-headers and to view response headers. I could find no straight forward way of 
+Unfortunately, AIR is required because of a need to set specific request 
+headers and to view response headers. I could find no straightforward way of 
 doing this from vanilla flash. The JS libraries manage it by utilizing jQuery. 
 An inspection of which would probably lead to a valid method.
 
 
 Changes
 =======
-June 22, 2010	-	Minor changes to autodoc remarks.
-							- Added FluidDBExplorer for experimentation and demos.
+June 22, 2010   - Minor changes to autodoc remarks.
+                - Added FluidDBExplorer for experimentation and demos.
 
 
 FluidDBExplorer
